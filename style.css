@@ -1,0 +1,90 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+.navbar-nav .nav-item:hover {
+    background-color: #007bff; /* Set your desired hover background color */
+}
+.font{
+    font-family: cursive;
+    font-size: 26px;
+}
+.card-text{
+    text-align: justify;
+}
+.card-title{
+    text-align: center;
+    font-size: x-large;
+    font-weight: bold;
+    font-family: fantasy;
+}
+.heading{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+.historyText{
+    text-align: justify;
+}
+.btn-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+marquee img{
+    
+width: 18rem;
+    
+height: 13rem;
+    
+border: 2px solid brown;
+    
+border-radius: 1rem;
+}
+#activities{
+
+margin-top: 5rem;
+}
+.act{
+    
+text-align: center;
+    
+font-family: cursive;
+}
+#footer {
+    background: linear-gradient(to right, #4CAF50, #2196F3);
+    padding: 20px 0;
+    text-align: center;
+    color: #ffffff; /* Set text color to be visible on the gradient background */
+}
+
+
+#map {
+    width: 100%;
+    height: 300px; /* Set an initial height for the map */
+}
+
+
+
+#cader{
+    margin-top: 2rem;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+#others{
+    background-color: #eceff1;
+    padding: 2rem;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+}
+#select{font-size: larger;text-align: center;font-weight: 400;}
+@media(max-width:768px){
+    nav{
+        text-align: center;
+    }
+}
