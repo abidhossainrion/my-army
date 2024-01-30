@@ -1,2 +1,1 @@
-# BDARMY
 # my-army
